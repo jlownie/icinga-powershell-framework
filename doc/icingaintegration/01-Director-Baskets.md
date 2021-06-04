@@ -41,4 +41,4 @@ Developer Note
 
 The generated Basket configuration will benefit from a detailed documentation of the module and each single argument. Descriptions for arguments are parsed into the Director description field, informing users of what the argument actually does. Furthermore arguments are automaticly mapped to certain object types. A `switch` argument for example will always be rendered with a `yes/no` drop-down-field, while arguments with a fixed set of input types like `Running`,  `Stopped`, and so on for services is rendered within a fixed custom list.
 
-This will increase the entire usability of the module and prevent you from having to document the a plugin multiple times.
+This will increase the entire usability of the module and prevent you from having to document the plugin multiple times.
